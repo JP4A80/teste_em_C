@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "produtos.h": "c",
+        "stdio.h": "c",
+        "vendas.h": "c"
+    }
+}
